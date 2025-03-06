@@ -1,0 +1,68 @@
+body{
+    background-color: lightgoldenrodyellow;
+
+}
+#navbar {
+    width: auto;
+    height: 60px; 
+    border-radius: 25px;
+    background: lightgray;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    border: 3px solid black;
+}
+#navcon{
+    height: 60px;
+    width: 600px;
+    margin-left: 10px;
+    align-items: center;
+    padding: 0 20px;
+    display: flex;
+    border: 1px solid black;
+    border-width: 0 0 0 3px
+}
+#navlink1, #navlink2 , #navlink3, #navlink4{
+    margin: 5px;
+}
+footer{
+    background-color: black;
+    height: 250px;
+    width: auto;
+    color: white;
+    border-radius: 25px;
+    text-align: center;
+}
+div.gallery{
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 180px;
+}
+div.gallery:hover{
+    border: 1px solid #777;
+}
+div.gallery img{
+    width: 100%;
+    height: auto;
+}
+div.desc{
+    padding: 15px;
+    text-align: center;
+}
+#team{
+    width: 850px;
+    height: 450px;
+    text-align: center;
+    display: flex;
+
+}
+#conform{
+    height: 800px;
+    width: auto;
+    border: 4px double black;
+}
+#qwe1{
+    height: 100px;
+    width: 200px;
+}
